@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "street fighter demo1/1.0.0": {
+        "runtime": {
+          "street fighter demo1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "street fighter demo1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
